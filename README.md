@@ -1,12 +1,9 @@
 
-<h2 align="center"> Hi there 👋.I'm Said.</h2>
+<h2 align="left"> Hi there 👋.I'm Said.</h2>
 
-<p align="center">
-    <img width="200" src="![image](https://user-images.githubusercontent.com/86806365/218316508-c334e210-ed13-4c1f-80f6-4d2e6c64869b.png)">
-</p>
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/86806365/218316508-c334e210-ed13-4c1f-80f6-4d2e6c64869b.png)
-</p>
+
 
    *I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence* 
    *at the Euro-Mediterranean University of Fez.*
