@@ -7,10 +7,10 @@
 <h3 align="left">
 For me:
 </h3>
-
+```
  *I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence* 
  *at the Euro-Mediterranean University of Fez.*
-
+```
 
 <p align="center">
   <img width="460" height="300" src="![image](https://user-images.githubusercontent.com/86806365/218287016-ec1d9840-0732-4b11-8cd0-6a10df0494d5.png)">
