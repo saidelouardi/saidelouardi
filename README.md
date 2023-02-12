@@ -1,7 +1,7 @@
 ### *Hi there 👋.I'm Said.WELCOME*
 
-*
-    I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence 
+
+    *I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence 
     at the Euro-Mediterranean University of Fez.*
 
 
