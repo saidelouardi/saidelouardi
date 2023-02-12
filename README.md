@@ -19,7 +19,8 @@ For me:
 
  **Skills:**
   
-![image](https://user-images.githubusercontent.com/86806365/218320546-a8636b97-418c-408e-ad7d-7c0781ed9917.png) ![image](https://user-images.githubusercontent.com/86806365/218320676-bd0d19e1-1664-4c0e-806c-df2d89e2bd68.png) ![image](https://user-images.githubusercontent.com/86806365/218320808-219bbea0-cf3e-4437-b414-f5da53267356.png) ![image](https://user-images.githubusercontent.com/86806365/218320920-58be179a-1327-405f-bcc4-c603b7a38c0f.png)
+![image](https://user-images.githubusercontent.com/86806365/218320546-a8636b97-418c-408e-ad7d-7c0781ed9917.png) ![image](https://user-images.githubusercontent.com/86806365/218320676-bd0d19e1-1664-4c0e-806c-df2d89e2bd68.png) ![image](https://user-images.githubusercontent.com/86806365/218320808-219bbea0-cf3e-4437-b414-f5da53267356.png) ![image](https://user-images.githubusercontent.com/86806365/218320920-58be179a-1327-405f-bcc4-c603b7a38c0f.png) ![image](https://user-images.githubusercontent.com/86806365/218320993-f809b152-ebcc-4440-87b4-e4b37e91503b.png)
+
 
 
 
