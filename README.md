@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="[![image](https://user-images.githubusercontent.com/86806365/218286897-07d614bd-8d74-40fb-b04e-f79769e0ae1c.png)](https://1178133041.rsc.cdn77.org/wp-content/uploads/2020/09/Post-COVID-19-Cyber-security-%E2%80%93-How-Enterprises-Can-Combat-the-New-Threat-Landscape.jpg)/460/300">
+  https://1178133041.rsc.cdn77.org/wp-content/uploads/2020/09/Post-COVID-19-Cyber-security-%E2%80%93-How-Enterprises-Can-Combat-the-New-Threat-Landscape.jpg
 </p>
 
 
