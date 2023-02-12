@@ -32,6 +32,9 @@ For me:
 ![image](https://user-images.githubusercontent.com/86806365/218326809-f7d50b3a-6b51-4baf-953a-b4cf9e53a577.png)
 ---
 **IDEs**
+
+![image](https://user-images.githubusercontent.com/86806365/218327056-f855345e-d9cb-49c7-a2c0-a1aa55c42674.png)
+
 ---
 ---
 
