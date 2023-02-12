@@ -2,7 +2,7 @@
 <h2 align="left"> Hi there 👋.I'm Said.</h2>
 
 
-![image](https://user-images.githubusercontent.com/86806365/218316508-c334e210-ed13-4c1f-80f6-4d2e6c64869b.png) ![image](https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/dev-working_rounded.gif) 
+![image](https://raw.githubusercontent.com/UtkarshPathrabe/UtkarshPathrabe/main/assets/dev-working_rounded.gif) 
 
 
 <h3 align="left">
