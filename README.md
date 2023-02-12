@@ -2,7 +2,8 @@
 <h2 align="left"> Hi there 👋.I'm Said.</h2>
 
 
-![image](https://user-images.githubusercontent.com/86806365/218316508-c334e210-ed13-4c1f-80f6-4d2e6c64869b.png)  ![image](https://user-images.githubusercontent.com/86806365/218320676-bd0d19e1-1664-4c0e-806c-df2d89e2bd68.png)
+![image](https://user-images.githubusercontent.com/86806365/218316508-c334e210-ed13-4c1f-80f6-4d2e6c64869b.png)  
+![image](https://user-images.githubusercontent.com/86806365/218320676-bd0d19e1-1664-4c0e-806c-df2d89e2bd68.png)
 
 
 <h3 align="left">
