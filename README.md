@@ -16,7 +16,7 @@ For me:
 ---
  
 
- **+SKILLS**
+ **Skills:**
   
 
 
