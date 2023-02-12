@@ -5,7 +5,9 @@
    *at the Euro-Mediterranean University of Fez.*
 
 
-<img align="right" width="200" height="200" src="![image](https://user-images.githubusercontent.com/86806365/218286871-eaeb2e9c-375e-45c5-8714-d03437ed2eda.png)/200/200">
+<p align="center">
+  <img width="460" height="300" src="![image](https://user-images.githubusercontent.com/86806365/218286897-07d614bd-8d74-40fb-b04e-f79769e0ae1c.png)/460/300">
+</p>
 
 
 <!--
