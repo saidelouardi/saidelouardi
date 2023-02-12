@@ -18,6 +18,7 @@ For me:
 
  **Skills:**
   
+![image](https://user-images.githubusercontent.com/86806365/218320546-a8636b97-418c-408e-ad7d-7c0781ed9917.png)
 
 
 
