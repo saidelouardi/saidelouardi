@@ -1,6 +1,9 @@
 
 <h2 align="center"> Hi there 👋.I'm Said.</h2>
----
+
+
+![pexels-tima-miroshnichenko-5380665](https://user-images.githubusercontent.com/86806365/218316063-27989641-56bd-4407-9d9f-5042a6badeef.jpg)
+
 
    *I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence* 
    *at the Euro-Mediterranean University of Fez.*
