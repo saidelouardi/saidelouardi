@@ -1,4 +1,4 @@
-| ###  *Hi there 👋.I'm Said.* |
+###  *Hi there 👋.I'm Said.* 
 ---
 
    *I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence* 
