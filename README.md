@@ -4,7 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/86806365/218316508-c334e210-ed13-4c1f-80f6-4d2e6c64869b.png)
 
-
+<p align="center">
+*For me:
+</p>
    *I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence* 
    *at the Euro-Mediterranean University of Fez.*
 
