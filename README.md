@@ -1,4 +1,6 @@
 ##                                                          *Hi there 👋.I'm Said.* 
+
+<h1 align="center">*Hi there 👋.I'm Said.*</h1>
 ---
 
    *I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence* 
