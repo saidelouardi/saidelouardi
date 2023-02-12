@@ -6,7 +6,8 @@
 
 
 <p align="center">
-  https://1178133041.rsc.cdn77.org/wp-content/uploads/2020/09/Post-COVID-19-Cyber-security-%E2%80%93-How-Enterprises-Can-Combat-the-New-Threat-Landscape.jpg
+  ![css](https://user-images.githubusercontent.com/86806365/218286967-3408743f-cd6d-43f2-a01f-82ef78eaa985.PNG)
+
 </p>
 
 
