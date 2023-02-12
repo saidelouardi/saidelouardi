@@ -5,7 +5,7 @@
    *at the Euro-Mediterranean University of Fez.*
 
 
-<img align="right" width="200" height="200" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif/200/200">
+<img align="right" width="200" height="200" src="![image](https://user-images.githubusercontent.com/86806365/218286871-eaeb2e9c-375e-45c5-8714-d03437ed2eda.png)/200/200">
 
 
 <!--
