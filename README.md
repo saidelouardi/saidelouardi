@@ -15,9 +15,9 @@ For me:
 
 ---
  
-<h4>
-. SKILLS
-</h4>  
+
+. **SKILLS**
+  
 
 
 
