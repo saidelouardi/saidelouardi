@@ -11,8 +11,11 @@ For me:
 
  *I am a 2nd year student in cyber security at the school establishment of digital engineering and artificial intelligence*
  *at the Euro-Mediterranean University of Fez.*
+
+---
+ 
 <h4>
-+ SKILLS
+. SKILLS
 </h4>  
 
 
