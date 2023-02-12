@@ -33,8 +33,7 @@ For me:
 ---
 **IDEs**
 
-![image](https://user-images.githubusercontent.com/86806365/218327056-f855345e-d9cb-49c7-a2c0-a1aa55c42674.png)
-
+![image](https://user-images.githubusercontent.com/86806365/218327123-c99015c5-5d73-45de-8532-2d2064e47a03.png)
 ---
 ---
 
