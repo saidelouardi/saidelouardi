@@ -24,7 +24,8 @@ For me:
 ---
 **Database**
 ---
-![image](https://user-images.githubusercontent.com/86806365/218326248-70cbeae0-f77d-438e-b8e9-25cbaa43cc05.png) ![image](https://user-images.githubusercontent.com/86806365/218326498-3af5686a-09ee-415b-93e0-244742806ffb.png) 
+![image](https://user-images.githubusercontent.com/86806365/218326248-70cbeae0-f77d-438e-b8e9-25cbaa43cc05.png) ![image](https://user-images.githubusercontent.com/86806365/218326498-3af5686a-09ee-415b-93e0-244742806ffb.png) ![image](https://user-images.githubusercontent.com/86806365/218326607-189ac46a-0482-4951-a7e7-4214f92e2a82.png)
+
 ---
 **Tools and Technologies**
 ---
